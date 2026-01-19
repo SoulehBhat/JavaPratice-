@@ -18,7 +18,7 @@ public class SelectionSort {
     temp = a[i];
 }
     for(int x : a){
-        System.out.println(x);
+    System.out.println(x);    
 }  
 }
 }
